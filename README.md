@@ -1,2 +1,1 @@
 # python-projects
-# Net-Core
