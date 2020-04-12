@@ -1,4 +1,4 @@
-
+#For more exaples https://www.programiz.com/python-programming/methods/tuple
 #Tuple t = (1,'test', 3.23)
 tuple1 = ("Test", 3.14, 55,"Apple",[3,4],"Cherry","Berry","Melon","Orange","Test",("x","y"))
 print("tuple1 : ", tuple1)
@@ -13,3 +13,4 @@ print("tuple1 + tuple2 : ", tuple1 + tuple2)
 print('tuple1.index("Apple") : ', tuple1.index("Apple"))
 print('tuple1.index([3,4]) : ', tuple1.index([3,4]))
 print('tuple1.count("Test") : ', tuple1.count("Test"))
+
